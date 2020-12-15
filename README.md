@@ -18,8 +18,6 @@ Social Network API is a NoSQL database application designed to allow users to sh
 * [social-network-api](https://github.com/mplumer/social-network-api)
 
 ![Screenshot](public/images/screenshot.png)
-![Video](public/images/walkthrough1)
-![Video](public/images/walkthrough2)
  
 ### Installation
   Clone or fork the code from the social-network-api repository on GitHub. Open the code in a standard code editing application, such as VS Code. Install npm and the following dependencies: 
